@@ -1,0 +1,45 @@
+body{
+    background-color: #8f8f8f;
+    width: 100vw;
+    padding: 10px;
+}
+.header {
+    display:flex;
+    justify-content: center; 
+    
+}
+.title{
+    
+        display: flex;
+        font-size: 50px;
+        font-family: 'Bebas Neue', cursive;
+}
+
+.section{
+width: 50%;
+}
+img{
+    
+    min-width: 100px;
+    max-width: 100px;
+}
+p{
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-size: 35px;
+}
+p2{
+    width: auto;
+}
+p3{
+    font-size: 22px;
+}
+.img_prints{
+    min-width: 600px;
+    max-width: 400px;
+}
+span{
+    background-color: rgb(90, 186, 224);
+}
