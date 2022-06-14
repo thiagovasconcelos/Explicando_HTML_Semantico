@@ -1,7 +1,13 @@
 body{
-    background-color: #8f8f8f;
+    background-color: #ffff;
     width: 100vw;
     padding: 10px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
 }
 .header {
     display:flex;
