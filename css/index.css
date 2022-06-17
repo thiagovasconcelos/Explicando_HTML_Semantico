@@ -22,7 +22,11 @@ main{
 }
 
 .section{
-width: 50%;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    width: 50%;
+    padding: 20px;
 }
 img{
     
@@ -30,22 +34,22 @@ img{
     max-width: 100px;
 }
 p{
-    font-size: 30px;
+    font-size: 20px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h2{
     font-size: 35px;
     border-bottom: 2px solid black;
 }
-p2{
-    width: auto;
-}
-p3{
-    font-size: 22px;
-}
+
 .img_prints{
     min-width: 600px;
     max-width: 400px;
+}
+figcaption{
+    font-size: 12px;
+    display: flex;
+  align-items: center;
 }
 span{
     background-color: rgb(90, 186, 224);
